@@ -1,0 +1,5 @@
+* Source
+
+[[https://github.com/AndreaCrotti/yasnippet-snippets][AndreaCrotti/yasnippet-snippets: a collection of yasnippet snippets for many languages]]
+
+[[https://github.com/doomemacs/snippets][GitHub - doomemacs/snippets: The Doom Emacs snippets library]]
